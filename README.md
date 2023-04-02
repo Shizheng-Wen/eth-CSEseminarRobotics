@@ -61,7 +61,7 @@ GNS,ICML2020 --symmetry--> Momentum-conserved_CConv,NeurIPS2022
 
 - **Message Passing Neural PDE Solvers.** *Johannes Brandstetter, Daniel Worrall, Max Welling*. **ICLR 2022** ([PDF](pdf/GNN-MPNNPDE.pdf))([Comment](https://mp.weixin.qq.com/s/pt0MPu1WkxhFY1fmBZ35rA))([OpenReview](https://openreview.net/forum?id=vSix3HPYKSU))
 
-  - <img src="../../Neural-PDE-Solver/assets/image-20230305221104856.png" alt="image-20230305221104856" style="zoom:50%;" />
+  - <img src="assets/image-20230305221104856.png" alt="image-20230305221104856" style="zoom:50%;" />
 
 - **Multi-scale Message Passing Neural PDE Solvers.** *Leonard Equer, T. Konstantin Rusch, Siddhartha Mishra*.  **ICLR 2023 workshop Physics4ML spotlight** ([PDF](pdf/MC_MPNPDE.pdf)) ([OpenReveiw](https://openreview.net/forum?id=jhH01LKEvB))
 
@@ -107,8 +107,6 @@ GNS,ICML2020 --symmetry--> Momentum-conserved_CConv,NeurIPS2022
 
 - **Learning continuous-time PDEs from sparse data with graph neural networks.** *Valerii Iakovlev, Markus Heinonen, Harri Lähdesmäki*. **ICLR 2021** ([PDF](pdf/Learningcontinuous-timePDEs.pdf)) ([Comment](https://zhuanlan.zhihu.com/p/422011614))
 
-- **Learning Mesh-Based Simulation with Graph Networks**. *Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter W. Battaglia*. **ICLR 2021 spotlight** ([PDF](pdf/learning_mesh_based_simulation.pdf))
-
 - **GRADE: A GRAPH BASED DATA-DRIVEN SOLVER FOR TIME-DEPENDENT NONLINEAR PARTIAL DIFFERENTIAL EQUATIONS**. *Yash Kumar, Souvik Chakraborty*. **2021 Arxiv** ([PDF](pdf/GNN-GRADE_A GRAPH BASED DATA-DRIVEN SOLVER FOR TIME-DEPENDENT NONLINEAR PARTIAL DIFFERENTIAL EQUATIONS.pdf))
 
 - **Implicit Neural Spatial Representations For Time-dependent PDEs**. *Honglin Chen, Rundi Wu, Eitan Grinspun, Changxi Zheng, Peter Yichen Chen*. **2022 Arxiv** ([PDF](pdf/GNN-IMPLICIT NEURAL SPATIAL REPRESENTATIONS FOR TIME-DEPENDENT PDES.pdf))
@@ -123,15 +121,15 @@ GNS,ICML2020 --symmetry--> Momentum-conserved_CConv,NeurIPS2022
 
 ## GNN Model
 
-- **Gradient Gating for Deep Multi-Rate Learning on Graphs**. 
-- **Graph-Coupled Oscillator Networks**.
-- **A Survey on Oversmoothing in Graph Neural Networks**.
+- **Gradient Gating for Deep Multi-Rate Learning on Graphs**. *T. Konstantin Rusch, Benjamin P. Chamberlain, Michael W. Mahoney, Michael M. Bronstein, Siddhartha Mishra*. **ICLR 2023** ([PDF](https://arxiv.org/pdf/2210.00513.pdf))
+- **Graph-Coupled Oscillator Networks**. *T. Konstantin Rusch, Benjamin P. Chamberlain, James Rowbottom, Siddhartha Mishra, Michael M. Bronstein*. **ICML 2022** ([PDF](https://arxiv.org/pdf/2202.02296.pdf))
+- **A Survey on Oversmoothing in Graph Neural Networks**. *T. Konstantin Rusch, Michael M. Bronstein, Siddhartha Mishra*. **2023 Arxiv** ([PDF](https://arxiv.org/pdf/2303.10993.pdf))
 
 ## Time-series Model
 
-- **Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies**
-- **UnICORNN: A recurrent model for learning very long time dependencies**.
-- **Long Expressive Memory for Sequence Modeling**.
+- **Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies**. *T. Konstantin Rusch, and Siddhartha Mishra*. **ICLR 2021 Oral** ([PDF](https://openreview.net/pdf?id=F3s69XzWOia)) 
+- **UnICORNN: A recurrent model for learning very long time dependencies**. *T. Konstantin Rusch, and Siddhartha Mishra*.  **ICML 2021** ([PDF](https://arxiv.org/pdf/2103.05487.pdf))
+- **Long Expressive Memory for Sequence Modeling**. *T. Konstantin Rusch, Siddhartha Mishra, N. Benjamin Erichson, and Michael W. Mahoney*. **ICLR 2022 Spotlight** ([PDF](https://arxiv.org/pdf/2110.04744.pdf))
 
 ## Robotics
 
